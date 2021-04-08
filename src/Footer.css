@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+   height: 10rem;
+   background-color: rgb(69, 75, 75);
+   color: white; 
+}
+.footer-nav{
+    text-decoration: none;
+    
+    text-decoration: none;
+}
+h3{
+    padding: 10px;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(181, 219, 11);
+}
